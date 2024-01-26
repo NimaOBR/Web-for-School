@@ -1,5 +1,6 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
+/* @import '../../public/Fonts/IRAN.ttf'; */
 
 /* Additional styles */
 @import 'additional-styles/utility-patterns.css';

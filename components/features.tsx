@@ -6,8 +6,9 @@ export default function Features() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">The majority our customers do not understand their workflows.</h2>
-            <p className="text-xl text-gray-400">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <h2 className="h2 mb-4">ثبت نام هنرجو
+هنرستان فنی و حرفه ای شهید رجایی در رشته های کامپیوتر ، معماری داخلی و حسابداری تعداد محدودی هنرجو در پایه دهم ثبت نام می نماید</h2>
+            <p className="text-xl text-gray-400">برای اطلاعات بیشتر در مورد رشته های فنی و حرفه ای و زیر شاخه های آن کلیک کنید </p>
           </div>
 
           {/* Items */}
@@ -20,8 +21,8 @@ export default function Features() {
                 <path className="stroke-current text-purple-100" d="M30 39.313l-4.18 2.197L27 34.628l-5-4.874 6.91-1.004L32 22.49l3.09 6.26L42 29.754l-3 2.924" strokeLinecap="square" strokeWidth="2" fill="none" fillRule="evenodd" />
                 <path className="stroke-current text-purple-300" d="M43 42h-9M43 37h-9" strokeLinecap="square" strokeWidth="2" />
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">کامپیوتر</h4>
+              <p className="text-lg text-gray-400 text-center">امروزه هر فردی از داشتن کامپیوتر بی بهره باشد به عنوان فردی بیسواد تلقی می شود ، عصر حاضر رامیتوان عصر فن آوری اطلاعات و ارتباطلات نامید. هنرجویان این رشته در طی این دوره تحصیلی با مبانی کامپیوتر وIT ،سیستم عامل ویندوز Server،نرم افزار های چند رسانه ای، برنامه سازی C#، بانک اطلاعاتی ،سخت افزار ، اینترنت و زبان تخصصی کامپیوتر آشنا می شوند</p>
             </div>
 
             {/* 2nd item */}
@@ -31,8 +32,8 @@ export default function Features() {
                 <path className="stroke-current text-purple-100" strokeWidth="2" strokeLinecap="square" d="M21 23h22v18H21z" fill="none" fillRule="evenodd" />
                 <path className="stroke-current text-purple-300" d="M26 28h12M26 32h12M26 36h5" strokeWidth="2" strokeLinecap="square" />
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">الکترونیک</h4>
+              <p className="text-lg text-gray-400 text-center"> دانشی است شامل فیزیک، مهندسی، فناوری و کاربردهایی که با جریان و کنترل الکترون‌ها در خلا و ماده سروکار دارد. در الکترونیک برای کنترل جریان الکترون از دستگاه‌های فعال تقویت و یکسوسازی استفاده می‌شود، درحالی‌که در مهندسی برق کلاسیک از اثرات غیرفعال مانند مقاومت، خازن و القاگر برای کنترل جریان الکتریسیته استفاده می‌شود</p>
             </div>
 
             {/* 3rd item */}
@@ -45,8 +46,8 @@ export default function Features() {
                   <circle className="stroke-current text-purple-100" cx="11" cy="11" r="11" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">الکتروتکنیک</h4>
+              <p className="text-lg text-gray-400 text-center">رشته الکتروتکنیک یکی از رشته های مدارس فنی و حرفه ای در زیر شاخه صنعت/ گروه برق و رایانه می باشد. رشته برق دارای شاخه های مختلف است که یکی از آنها رشته الکتروتکنیک یا همان برق صنعتی است که تمام افرادی که در این زمینه مشغول به تحصیل هستند بعد از کسب تخصص کافی می‌توانند برای تعمیر و نگهداری انواع ماشینهای صنعتی یا شبکه های الکتریکی و همچنین تعمیر و راه اندازی مدارها و یا تأسیسات الکتریکی و یا سرپرستی در کارگاه‌هایی خاص مشغول به فعالیت شوند</p>
             </div>
 
             {/* 4th item */}
@@ -58,8 +59,8 @@ export default function Features() {
                   <circle className="stroke-current text-purple-300" cx="13" cy="9" r="3" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">حسابداری</h4>
+              <p className="text-lg text-gray-400 text-center">علم حسابداری با تمدن همزاد است و به اندازه تمدن بشر قدمت دارد. حسابداری همراه سایر دانشهای فنی در گذر زمان در پاسخ به نیازهای فزاینده و گوناگون بشری رشد و تکامل یافته است.حسابداری زبان تجارت است.زیرا اطلاعات مالی را به آگاهی دیگران میرساند. حسابداری نقش مهمی در سیستم اقتصادی و اجتماعی هر جامعه ایفا میکند.موضع حسابداری ماهیت اقتصادی و روش های آن خصلت آماری دارد. حسابداری رنگ و فام اخلاقی دارد، زیرا یافتن حقیقت و منعکس کردن آن بخشی از وظیفه اجتماعی حسابداری است و یکی از اصول حسابداری ، راز داری می باشد.</p>
             </div>
 
             {/* 5th item */}
@@ -71,8 +72,8 @@ export default function Features() {
                   <path className="stroke-current text-purple-300" d="M22 30h4v12h-4z" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">معماری</h4>
+              <p className="text-lg text-gray-400 text-center">مِعماری یا مهرازی، فرایند برنامه‌ریزی، طراحی و ساخت ساختمان‌ها و دیگر سازه‌ها می‌باشد معماری را همچنین می‌توان هنر و علم طراحی ساختمان‌هایی در نظر گرفت که در آن ویژگی‌هایی از قبیل زیبایی، هندسه، قدرت عاطفی و معنوی، محتوای هوشمندانه و پیچیدگی، کیفیت ساخت، راحتی، مصالح بادوام و دلپذیر، رنگ‌آمیزی و تزئینات، آرامش و پویایی، تناسب و مقیاس خوب در نظر گرفته شده‌است</p>
             </div>
 
             {/* 6th item */}
@@ -85,8 +86,12 @@ export default function Features() {
                   <path className="stroke-current text-purple-100" d="M8.86 1.18C3.8 1.988 0 5.6 0 10c0 5 4.9 9 11 9a10.55 10.55 0 003.1-.4L20 21l-.6-5.2a9.125 9.125 0 001.991-2.948" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">نرم افزار</h4>
+              <p className="text-lg text-gray-400 text-center">گردآوردی از دستورالعمل‌ها است که به رایانه می‌گوید «چگونه کار کن». این مفهوم در برابر سخت‌افزار فیزیکی قرار دارد، که توسط آن سامانه ساخته شده‌است و «در واقعیت کار را انجام می‌دهد»
+
+در علوم رایانه و مهندسی نرم‌افزار، یک نرم‌افزار رایانه‌ای همه اطلاعاتی است که توسط سامانه رایانه‌ای پردازش می‌شود، که شامل برنامه‌ها و داده است.
+
+نرم‌افزار رایانه‌ای شامل برنامه‌های رایانه‌ای، کتابخانه‌ها، و داده‌های مرتبط غیرقابل اجرا (مثل مستندات برخط و رسانه‌های دیجیتالی) است. سخت‌افزار و نرم‌افزار رایانه‌ای به هم احتیاج دارند و هیچ‌کدام به صورت واقعی قابل استفاده به خودی خود نیست.</p>
             </div>
 
           </div>
