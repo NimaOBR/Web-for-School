@@ -24,7 +24,7 @@ export default function Hero() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h1 className="h1 mb-4" data-aos="fade-up">مدرسه ی فنی و حرفه ای کودستان  </h1>
+            <h1 className="h1 mb-4" data-aos="fade-up">مدرسه ی فنی و حرفه ای کوردستان  </h1>
             <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">مدرسه اینترنتی کوردستان پیرانشهر باهمکاری مرکز آموزش و پرورش راه اندازی شده است و با ارائه روش های نوین آموزشی، دوره های آموزش غیر حضوری خود را جهت استفاده دانش آموزان مقطع متوسطه اول  برگزار می نماید.</p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
