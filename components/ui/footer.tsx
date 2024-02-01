@@ -23,7 +23,7 @@ export default function Footer() {
                 </Link>
               </div>
               <div className="text-gray-400">
-                هنرستان فنی و حرفه‌ای شهید رجایی تبریز در سال 1380 تأسیس شده است.
+                هنرستان فنی و حرفه‌ای کوردستان در سال 1380 تأسیس شده است.
                 در حال حاضر چهار رشته الکترونیک، الکتروتکنیک، شبکه و نرم افزار و
                 حسابداری در این هنرستان دایر می‌باشد و بالغ بر 300 هنرجو در این
                 رشته‌ها مشغول به تحصیل هستند.
@@ -119,7 +119,7 @@ export default function Footer() {
                       href="/"
                       className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out"
                     >
-                    و....  تبریز، خیابان ، کوچه
+                    و....  پیرانشهر خیابان ، کوچه
                     </Link>
                   </li>
                   <li className="mb-1">
@@ -135,7 +135,7 @@ export default function Footer() {
                       href="/"
                       className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out"
                     >
-                      اداره کل اموزش و پرورش آذربایجان شرقی ، تبریز
+                      اداره کل اموزش و پرورش
                     </Link>
                   </li>
               
@@ -230,7 +230,7 @@ export default function Footer() {
 
             {/* Copyrights note */}
             <div className="text-gray-400 text-sm mr-4">
-              &copy; TabrizRajaii. All rights reserved. Developer: Nima-Mohammadi
+              &copy; Kurdostan, All rights reserved. Developer: Nima-Mohammadi
             </div>
           </div>
         </div>
